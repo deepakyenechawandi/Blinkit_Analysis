@@ -47,9 +47,10 @@ This project provides a comprehensive **sales, outlet, and product performance a
 
 ## 🖼️ Dashboard Preview
 
-![Blinkit Power BI Dashboard](screenshots/blinkit_power_bi.png)
+![Blinkit Power BI Dashboard](https://github.com/deepakyenechawandi/Blinkit_Analysis/blob/main/Power%20BI%20Dashboard/blinkit%20power%20bi.png)
 
-> Make sure the image file `blinkit_power_bi.png` is in the `screenshots` folder of your repo.
+![Blinkit Excel Dashboard](https://github.com/deepakyenechawandi/Blinkit_Analysis/blob/main/Excel%20Dashboard/Blinkit%20Analysis.png)
+
 
 ---
 
